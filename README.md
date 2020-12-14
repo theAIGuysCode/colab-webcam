@@ -13,9 +13,9 @@ This tutorial will use OpenCV's pre-trained Haar Cascade Classifier to run face 
 To learn more about Haar Cascade you can check out the documentation. [Haar Documentation](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_objdetect/py_face_detection/py_face_detection.html)
 
 ### Image Example
-<p align="center"><img src="=image_example.png"\></p>
+<p align="center"><img src="image_example.png"\></p>
 
 ### Video Example
-<p align="center"><img src="=video_example.gif"\></p>
+<p align="center"><img src="video_example.gif"\></p>
 
 Hope you enjoy!
